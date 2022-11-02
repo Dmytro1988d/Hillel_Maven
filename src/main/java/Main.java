@@ -65,4 +65,3 @@ public class Main {
         System.out.println("Game over with total score of right answers = " + i);
     }
 }
-

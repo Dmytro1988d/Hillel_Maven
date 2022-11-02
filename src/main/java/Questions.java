@@ -4,7 +4,6 @@ public class Questions {
     public Questions(String question) {
         this.question = question;
     }
-
     public void selectQuestion () {
         System.out.println(question);
     }

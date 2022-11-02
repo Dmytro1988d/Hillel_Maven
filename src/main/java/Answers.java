@@ -1,7 +1,6 @@
 public class Answers {
     public String answer;
 
-
     public Answers(String answer) {
         this.answer = answer;
     }
